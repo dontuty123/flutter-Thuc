@@ -1,0 +1,1 @@
+const String BASE_API='http://api.phanmemquocbao.com/api/Doituong/';
